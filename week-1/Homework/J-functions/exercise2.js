@@ -1,4 +1,4 @@
-function triple(number) {
+function triple(4) {
   // complete function here
 }
 
