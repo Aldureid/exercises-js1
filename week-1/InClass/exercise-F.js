@@ -1,4 +1,7 @@
 const numberOfStudents = 15;
 const numberOfMentors = 8;
-const number = numberOfStudents + numberOfMentors
+const hay = "there are "
+const hay2 = " persons"
+const sum = numberOfStudents + numberOfMentors
+const number = hay + sum +hay2
 console.log(number); 
